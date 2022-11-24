@@ -9,7 +9,15 @@
 
 **Instrabauz** è un gruppo di lavoro che si pone l'obiettivo di promuovere e favorire l'utilizzo delle lingue locali, anche attraverso mezzi tecnologici.
 
+📍 Trentino\
+🗓️ dal 2020\
+👥 10 giovani laureati o studenti di diversi ambiti (Linguistica, Informatica, Storia, Ingegneria, etc.)
+
+<br>
+
 # ⸙ I nostri progetti
+
+<br>
 
 ## <a href="https://github.com/instrabauz/telegram-translations"><img align="left" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/telegram.svg" height="30px"/>Telegram</a>
 Vogliamo rendere disponibile Telegram nelle lingue locali trentine.\
@@ -18,10 +26,14 @@ Stiamo lavorando alle seguenti varietà, per ora in versione beta, ma già dispo
 - **Nones** ([imposta Telegram in noneso](https://t.me/setlanguage/noneso))
 - **Ladin Fascian** ([imposta Telegram in fassano](https://t.me/setlanguage/fascian))
 
+<br>
+
 ## <a href="https://github.com/instrabauz/wikipedia"><img align="left" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/wikipedia.svg" height="30px"/>Wikipedia</a>
 Collaboriamo ad espandere Wikipedia:
 - **Ladin** (sulla [Wikipedia ladina](https://lld.wikipedia.org))
 - **Nones** (sulla [Wikipedia lombarda](https://lmo.wikipedia.org/wiki/Wikipedia:Wikipedia_par_n%C3%B2nes_e_solander))
+
+<br>
 
 ---
 ### Seguici sui social
