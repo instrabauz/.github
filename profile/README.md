@@ -1,15 +1,13 @@
+<a href="https://www.youtube.com/@instrabauz-linguetrentine3503"><img align="right" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/youtube.svg" height="21px"/></a>
+<a href="https://www.tiktok.com/@instrabauz"><img align="right" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/tiktok.svg" height="21px"/></a> 
+<a href="https://www.facebook.com/instrabauz"><img align="right" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/facebook.svg" height="21px"/></a>
+<a href="https://instagram.com/instrabauz"><img align="right" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/instagram.svg" height="21px"/></a> 
+
 <h1 align="center">
 ⸙ Instrabauz - Lingue Trentine
 </h1>
 
 **Instrabauz** è un gruppo di lavoro che si pone l'obiettivo di promuovere e favorire l'utilizzo delle lingue locali, anche attraverso mezzi tecnologici.
-
-### Seguici sui social
-<a href="https://instagram.com/instrabauz"> <img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/instagram.svg" height="21px"/></a>
-<a href="https://www.facebook.com/instrabauz"> <img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/facebook.svg" height="21px"/></a>
-<a href="https://www.tiktok.com/@instrabauz"> <img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/tiktok.svg" height="21px"/></a>
-<a href="https://www.youtube.com/@instrabauz-linguetrentine3503"> <img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/youtube.svg" height="21px"/></a>
-
 
 # ⸙ I nostri progetti
 
@@ -25,5 +23,8 @@ Collaboriamo ad espandere Wikipedia:
 - **Ladin** (sulla [Wikipedia ladina](https://lld.wikipedia.org))
 - **Nones** (sulla [Wikipedia lombarda](https://lmo.wikipedia.org/wiki/Wikipedia:Wikipedia_par_n%C3%B2nes_e_solander))
 
-## Altro
-Su GitHub è visibile solo una parte del nostro lavoro. Scopri il resto direttamente sui nostri social.
+---
+### Seguici sui social
+Su GitHub è visibile solo una parte del nostro lavoro.
+
+<a href="https://instagram.com/instrabauz"><img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/instagram.svg" height="21px"/></a> <a href="https://www.facebook.com/instrabauz"><img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/facebook.svg" height="21px"/></a> <a href="https://www.tiktok.com/@instrabauz"><img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/tiktok.svg" height="21px"/></a> <a href="https://www.youtube.com/@instrabauz-linguetrentine3503"><img src="https://raw.githubusercontent.com/instrabauz/.github/main/images/youtube.svg" height="21px"/></a>
