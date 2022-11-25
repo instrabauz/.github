@@ -29,6 +29,9 @@ Collaboriamo ad espandere Wikipedia:
 - **Ladin** (sulla [Wikipedia ladina](https://lld.wikipedia.org))
 - **Nones** (sulla [Wikipedia lombarda](https://lmo.wikipedia.org/wiki/Wikipedia:Wikipedia_par_n%C3%B2nes_e_solander))
 
+## <a href="https://github.com/instrabauz/openstreetmap-multilingual-names"><img align="left" src="https://raw.githubusercontent.com/instrabauz/.github/main/images/openstreetmap.svg" height="30px"/>OpenStreetMap</a>
+Puntiamo a rendere le mappe di OpenStreetMap ancora più multilingui, e ad uniformare il modo in cui le diverse varietà linguistiche sono gestite. Ci occupiamo di toponomastica e odonomastica in lingua locale.
+
 <br/>
 
 ---
